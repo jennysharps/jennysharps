@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Jenny and I'm a software engineer at ![https://github.com/redbadger](Red Badger).
+My name's Jenny and I'm a software engineer at [https://github.com/redbadger](Red Badger).
 
 [![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennysharps)](https://github.com/anuraghazra/github-readme-stats)
 
