@@ -2,8 +2,6 @@
 
 My name's Jenny and I'm a software engineer at [Red Badger](https://github.com/redbadger).
 
-[![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennysharps&hide=stars&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **jennysharps/jennysharps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
