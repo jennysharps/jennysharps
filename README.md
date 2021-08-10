@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 My name's Jenny and I'm a software engineer at [Red Badger](https://github.com/redbadger).
 
