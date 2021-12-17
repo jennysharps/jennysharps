@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name's Jenny and I'm a software engineer at [Red Badger](https://github.com/redbadger).
+My name's Jenny and I'm a tech lead at [Red Badger](https://github.com/redbadger).
 
 <!--
 **jennysharps/jennysharps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
